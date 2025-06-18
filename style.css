@@ -660,8 +660,6 @@ body {
     transform: translateY(-5px);
   }
 }
-.cor {
-  h1 {
+.cor h1 { 
     text-align: center;
   }
-}

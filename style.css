@@ -598,7 +598,7 @@ body {
   text-align: center;
 }
 #section2 h1 {
- left: 42%;
+ left: 45%;
 }
 #section2 h2::after {
   content: '';
@@ -660,21 +660,12 @@ body {
     transform: translateY(-5px);
   }
 }
-.cor {
-  width: 100%;
-  text-align: center;
-  margin: 0 auto;
-  padding: 0;
-}
-
 .imggalerie {
   border-radius: 30px;
   overflow: hidden;
 }
 
 .imggalerie img {
-  border-radius: 30px;
-  width: 100%;
-  height: auto;
+  border-radius: 30px;s
   display: block;
 }

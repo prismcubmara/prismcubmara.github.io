@@ -660,3 +660,8 @@ body {
     transform: translateY(-5px);
   }
 }
+.cor {
+  h1 {
+    text-align: center;
+  }
+}
